@@ -41,7 +41,7 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Helping to me | Helping to 
 
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Mr.lo9mane.bkt`](https://github.com/whiteshadowofficial)
+* [`Mr.lo9mane.bkt`](https://github.com/louk0000/HISL-WHATSAPP-BOT-MD)
 * [`Black Panther`](github.com/blackpantherofc)
 * [`MrChaby`](github.com/MrChaby)
 
